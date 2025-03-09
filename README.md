@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @maxxkayne
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on projects that will re-inforce what I've learned, and/or stimulate new learnings
 - 📫 How to reach me ...maxxkayne@gmail.com
 
